@@ -12,7 +12,7 @@ namespace EditorHtml
             Console.ForegroundColor = ConsoleColor.Black;
             Console.Clear();
             Console.WriteLine("MODO EDITOR");
-            Console.WriteLine("=================");
+            Console.WriteLine("===============");
             Start();
         }
 
